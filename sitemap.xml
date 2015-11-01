@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    
+    <url>
+     <loc>None/</loc>
+     <lastmod>2015-11-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/Authentication/</loc>
+     <lastmod>2015-11-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/CreateLambdaInstance/</loc>
+     <lastmod>2015-11-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/LambdaInstancesList/</loc>
+     <lastmod>2015-11-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/LambdaInstanceDetails/</loc>
+     <lastmod>2015-11-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/LambdaInstanceAction/</loc>
+     <lastmod>2015-11-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/LambdaInstanceDestroy/</loc>
+     <lastmod>2015-11-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/ApplicationUpload/</loc>
+     <lastmod>2015-11-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/ApplicationDelete/</loc>
+     <lastmod>2015-11-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/ApplicationsList/</loc>
+     <lastmod>2015-11-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/ApplicationDetails/</loc>
+     <lastmod>2015-11-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/ApplicationDeploy/</loc>
+     <lastmod>2015-11-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/ApplicationWithdraw/</loc>
+     <lastmod>2015-11-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/ApplicationsListDeployed/</loc>
+     <lastmod>2015-11-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/ApplicationStart/</loc>
+     <lastmod>2015-11-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/ApplicationStop/</loc>
+     <lastmod>2015-11-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/UserPublicKeys/</loc>
+     <lastmod>2015-11-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/VMParameterValues/</loc>
+     <lastmod>2015-11-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+</urlset>
